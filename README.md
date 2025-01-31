@@ -1,7 +1,7 @@
-# Viral YouTube Title Generator
+# 🚀 Viral YouTube Title Generator
 
 ## Overview
-The **Viral YouTube Title Generator** is a Flask web application that helps users create engaging and click-worthy YouTube titles. By entering a YouTube title, the app generates 10 viral variations using AI-powered text generation from Deepseek's API.
+The **Viral YouTube Title Generator** is a self hostable Flask web application that helps users create engaging and click-worthy YouTube titles. By entering a YouTube title, the app generates 10 viral variations using AI-powered text generation from Deepseek's API.
 
 ![Screenshot](app-screenshot.png)
 
