@@ -32,8 +32,9 @@ Ensure you have the following installed:
    ```sh
    pip install -r requirements.txt
    ```
-3. Create a `.env` file to store your API key:
-To use Deepseek's API for generating YouTube titles, you need an API key. You can get a free Deepseek API key through [OpenRouter.ai](https://openrouter.ai/deepseek/deepseek-r1:free/api)
+3. Create a `.env` file to store your API key:  
+To use Deepseek's API for generating YouTube titles, you need an API key. 
+You can get a free Deepseek API key through [OpenRouter.ai](https://openrouter.ai/deepseek/deepseek-r1:free/api)
    ```sh
    echo "DEEPSEEK_API_KEY=your_api_key_here" > .env
    ```
