@@ -41,6 +41,13 @@ Ensure you have the following installed:
    python app.py
    ```
 
+If you prefer, you can use the OpenAI API as an alternative to the Deepseek API. To use it, refer to the following base URL and model. You can obtain your API key from OpenAI's API Key page:
+   ```sh
+   # Base URL and Model for OpenAI API
+   Base URL: https://api.openai.com/v1/chat/completions
+   Model: gpt-4o-mini
+   ```
+
 ## Usage
 1. Open the app in your browser at [http://localhost:5000](http://localhost:5000).
 2. Enter a YouTube title in the text box.
