@@ -25,8 +25,8 @@ Ensure you have the following installed:
 ### Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/tshenolo/viral-yt-title-gen-deepseek.git
-   cd viral-yt-title-gen-deepseek
+   git clone https://github.com/tshenolo/viral-yt-title-generator.git
+   cd viral-yt-title-generator
    ```
 2. Install dependencies:
    ```sh
